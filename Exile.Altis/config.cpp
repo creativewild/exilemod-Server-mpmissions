@@ -1333,9 +1333,9 @@ class CfgExileArsenal
 	class Exile_Chopper_Hummingbird_Civillian_Wave				{ quality = 1; price = 5000; };
 	
 	///////////////////////////////////////////////////////////////////////////////
-        // Hellcat
+        // Mi-48
 	///////////////////////////////////////////////////////////////////////////////
-	class I_Heli_light_03_F 						{ quality = 1; price = 150; };
+	class O_Heli_Attack_02_F						{ quality = 1; price = 150; };
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Huron
@@ -2395,7 +2395,7 @@ class CfgTraderCategories
 			"Exile_Chopper_Mohawk_FIA",
 			"Exile_Chopper_Huron_Black",
 			"Exile_Chopper_Hellcat_Green",
-			"class I_Heli_light_03_F"
+			"O_Heli_Attack_02_F"
 		};
 	};
 
