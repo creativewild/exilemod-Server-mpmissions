@@ -208,3 +208,5 @@ call ExileClient_object_trader_create;
     313.349
 ]
 call ExileClient_object_trader_create;
+
+execVM "blckClient.sqf";

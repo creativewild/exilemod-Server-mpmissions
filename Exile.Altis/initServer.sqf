@@ -200,3 +200,7 @@ _objects =
     _object enableSimulation false; // :)
 }
 forEach _objects;
+
+if (isServer) then {
+	execVM "\q\addons\custom_server\init.sqf";
+};
