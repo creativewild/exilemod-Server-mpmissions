@@ -1,4 +1,4 @@
-PeterCashel.net - Exile Server - With mods
+PeterCashel.net - Exile Server (Mission) - With mods
 
 Based on Exile - http://www.exilemod.com/ 
 
