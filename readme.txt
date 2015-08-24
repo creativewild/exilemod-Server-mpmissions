@@ -1,1 +1,10 @@
-Multiplayer scenarios exported from the in-game editor are stored here. You can also place downloaded custom scenarios in this folder and host them on Multiplayer servers.
+PeterCashel.net - Exile Server (Mission) - With mods
+
+Based on Exile - http://www.exilemod.com/ 
+
+
+
+Things added
+------------
+
+Blckeagls' AI Mission. - http://epochmod.com/forum/index.php?/topic/30063-blckeagls-ai-mission-version-202-release-122015/
