@@ -1331,7 +1331,12 @@ class CfgExileArsenal
 	class Exile_Chopper_Hummingbird_Civillian_Vrana				{ quality = 1; price = 5000; };
 	class Exile_Chopper_Hummingbird_Civillian_Wasp				{ quality = 1; price = 5000; };
 	class Exile_Chopper_Hummingbird_Civillian_Wave				{ quality = 1; price = 5000; };
-
+	
+	///////////////////////////////////////////////////////////////////////////////
+        // Hellcat
+	///////////////////////////////////////////////////////////////////////////////
+	class I_Heli_light_03_F 						{ quality = 1; price = 150; };
+	
 	///////////////////////////////////////////////////////////////////////////////
 	// Huron
 	///////////////////////////////////////////////////////////////////////////////
@@ -2389,7 +2394,8 @@ class CfgTraderCategories
 			"Exile_Chopper_Orca_BlackCustom",
 			"Exile_Chopper_Mohawk_FIA",
 			"Exile_Chopper_Huron_Black",
-			"Exile_Chopper_Hellcat_Green"
+			"Exile_Chopper_Hellcat_Green",
+			"class I_Heli_light_03_F"
 		};
 	};
 
